@@ -1,2 +1,4 @@
-# imoocc_nginx
-nginx4imoocc_py3
+# nginx_imooc
+# Author:Jeson
+# Email:jeson@imoocc.com
+云平台基于nginx中间件架构
